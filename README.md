@@ -1,1 +1,1 @@
-# Loan aggregator project using Linear_Model
+# Loan aggregator project using Linear Model
